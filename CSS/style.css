@@ -40,8 +40,9 @@ body{
 
 /*--Landing Page--*/
 
-.home-inner{
-	background-image:url(images/mypic.jpg);
+.home-inner img{
+	width=100%;
+	height=100%
 }
 .caption{
 	width:100%;
