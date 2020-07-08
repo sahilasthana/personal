@@ -41,7 +41,7 @@ body{
 /*--Landing Page--*/
 
 .home-inner{
-	background-image:url(images/computers.png);
+	background-image:url("images/computers.png");
 }
 .caption{
 	width:100%;
